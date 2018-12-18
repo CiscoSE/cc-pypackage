@@ -2,7 +2,9 @@
 
 *Cookiecutter template for a Python package.*
 
-[![Build Status](https://travis-ci.org/CiscoSE/cc-pypackage.svg?branch=master)](https://travis-ci.org/CiscoSE/cc-pypackage)
+[![Travis Build Status](https://travis-ci.org/CiscoSE/cc-pypackage.svg?branch=master)](https://travis-ci.org/CiscoSE/cc-pypackage)
+
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/q678cjma2f8vj7w4/branch/master?svg=true)](https://ci.appveyor.com/project/cmlccie/cc-pypackage/branch/master)
 
 This [Cookiecutter](https://github.com/audreyr/cookiecutter) template is a fork of the excellent [Cookiecutter-PyPackage](https://github.com/audreyr/cookiecutter-pypackage) project template - adapted for Cisco SE use by licensing the generated project under the [Cisco Sample Code License](./LICENSE).
 
