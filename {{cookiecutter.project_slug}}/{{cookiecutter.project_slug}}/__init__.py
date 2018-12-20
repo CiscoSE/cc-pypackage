@@ -17,8 +17,8 @@ IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
 or implied.
 """
 
-__author__ = """{{ cookiecutter.full_name }}"""
-__email__ = '{{ cookiecutter.email }}'
-__version__ = '{{ cookiecutter.version }}'
+__author__ = "{{ cookiecutter.full_name }}"
+__email__ = "{{ cookiecutter.email }}"
+__version__ = "{{ cookiecutter.version }}"
 __copyright__ = "Copyright (c) {% now 'local', '%Y' %} Cisco and/or its affiliates."
 __license__ = "Cisco Sample Code License, Version 1.0"
