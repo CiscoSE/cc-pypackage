@@ -64,12 +64,13 @@ Did we break something?  If you are experiencing an issue with this fork of the 
 
 This project template is for use by **Cisco Systems Engineers** who are creating example and demonstration code *(aka. Cisco Sample Code)* and sharing it with Cisco's customers and partners for use with Cisco products and services.  **The Cisco Sample Code License is for use in Cisco Repositories Only.**  It is not an Open Source license. The license should only be used by Cisco and/or its affiliates to post and share Cisco Sample Code.
 
-[Cookiecutter]: https://github.com/audreyr/cookiecutter
-[Travis-CI]: http://travis-ci.org/
-[Tox]: http://testrun.org/tox/
-[Sphinx]: http://sphinx-doc.org/
-[ReadTheDocs]: https://readthedocs.io/
-[pyup.io]: https://pyup.io/
 [Bumpversion]: https://github.com/peritus/bumpversion
+[Click]: https://click.palletsprojects.com
+[Cookiecutter]: https://github.com/audreyr/cookiecutter
 [Punch]: https://github.com/lgiordani/punch
 [PyPi]: https://pypi.python.org/pypi
+[ReadTheDocs]: https://readthedocs.io/
+[Sphinx]: http://sphinx-doc.org/
+[Tox]: http://testrun.org/tox/
+[Travis-CI]: http://travis-ci.org/
+[pyup.io]: https://pyup.io/
