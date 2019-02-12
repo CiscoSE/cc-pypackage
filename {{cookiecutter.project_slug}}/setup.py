@@ -38,7 +38,7 @@ setup(
     },
     {%- endif %}
     install_requires=requirements,
-    license="Cisco Sample Code License, Version 1.0",
+    license="Cisco Sample Code License, Version 1.1",
     long_description=readme,
     long_description_content_type='text/markdown',
     include_package_data=True,
